@@ -1,5 +1,6 @@
 # Code Quiz
-
+i do not claim this code as my own.
+code writen by mmeii on github.com
 This is a timed coding quiz with multiple-choice questions. This app is written from scratch.
 
 ## Installation
